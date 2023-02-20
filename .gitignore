@@ -1,32 +1,35 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+.vs/phys_C_second_semestr/FileContentIndex/beeeaf28-63d6-4e66-b0f1-c72f074b23eb.vsidx
+.vs/phys_C_second_semestr/FileContentIndex/c6091326-fac5-427e-bb80-d9418873df8d.vsidx
+.vs/phys_C_second_semestr/FileContentIndex/d8ab5c06-3675-4166-9a88-7dd6c749cc71.vsidx
+.vs/phys_C_second_semestr/FileContentIndex/read.lock
+.vs/phys_C_second_semestr/v17/.suo
+.vs/phys_C_second_semestr/v17/Browse.VC.db
+.vs/phys_C_second_semestr/v17/ipch/AutoPCH/41692f0a5672cdfd/2.1_MAIN.ipch
+.vs/phys_C_second_semestr/v17/ipch/AutoPCH/6e479392c3f225bf/2.1_MAIN.ipch
+.vs/phys_C_second_semestr/v17/ipch/AutoPCH/bb5942b2cb5296cf/SOURCE.ipch
+.vs/phys_C_second_semestr/v17/ipch/AutoPCH/c9e45c224ad13f04/1.1_MAIN.ipch
+.vs/phys_C_second_semestr/v17/ipch/AutoPCH/e1569647d7e81205/SOURCE.ipch
+.vs/phys_C_second_semestr/v17/ipch/AutoPCH/f39d771fa19b0f2a/1.3_MAIN.ipch
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+*.vsidx
+*.lock
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.recipe
+*.enc
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.idb
+Project1/.vs/Project1/v17/.suo

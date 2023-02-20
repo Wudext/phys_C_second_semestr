@@ -11,4 +11,10 @@ void main() {
 	if (task == 1.3) {
 		main_13();
 	}
+	if (task == 2.1) {
+		main_21();
+	}
+	if (task == 2.25) {
+		main_225();
+	}
 }
