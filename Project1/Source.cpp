@@ -17,4 +17,10 @@ void main() {
 	if (task == 2.25) {
 		main_225();
 	}
+	if (task == 3.10) {
+		main_310();
+	}
+	if (task == 3.19) {
+		main_319();
+	}
 }
