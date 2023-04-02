@@ -42,25 +42,25 @@ public:
 		return *this;
 	}
 
-	Complex& operator+(const Complex& src2) const {
+	Complex operator+(const Complex& src2) const {
 		Complex res(*this);
 		res += src2;
 		return res;
 	}
 
-	Complex& operator-(const Complex& src2) const {
+	Complex operator-(const Complex& src2) const {
 		Complex res(*this);
 		res -= src2;
 		return res;
 	}
 
-	Complex& operator*(int k) const {
+	Complex operator*(int k) const {
 		Complex res(*this);
 		res *= k;
 		return res;
 	}
 
-	Complex& operator/(int k) const {
+	Complex operator/(int k) const {
 		Complex res(*this);
 		res /= k;
 		return res;

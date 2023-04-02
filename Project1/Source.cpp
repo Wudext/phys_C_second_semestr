@@ -20,7 +20,16 @@ void main() {
 	if (task == 3.10) {
 		main_310();
 	}
-	if (task == 3.19) {
-		main_319();
+	//if (task == 3.19) {
+	//	main_319();
+	//}
+	if (task == 4.3) {
+		main_43();
+	}
+	if (task == 6.16) {
+		main_616();
+	}
+	if (task == 6.66) {
+		main_a();
 	}
 }

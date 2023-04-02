@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
@@ -12,6 +13,17 @@ void main_225();
 
 //Третий семинар
 void main_310();
-void main_319();
+//void main_319();
 
 //Четвертый семинар
+void main_43();
+
+//Пятый семинар (потом как-нибудь)
+
+
+//Шестой семинар
+void main_616();
+
+
+//Артём Кусак
+void main_a();
